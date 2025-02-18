@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid-hstu57&show_icons=true&locale=en" alt="nahid-hstu57" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-hstu57&" alt="nahid-hstu57" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=nahid-hstu57](https://github.com/nahid-hstu57)&" alt="nahid-hstu57" /></p>
 
